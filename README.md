@@ -1,1 +1,2 @@
 # ReGU-MKMBF
+A recurrent gated unit-based mixture kriging machine Bayesian filtering (ReGU-MKMBF) approach for characterizing nonstationary and nonlinear behaviors of one ubiquitous real-world process—dynamic intermittency. It models the transient dynamics in the state space as recurrent transitions between localized stationary segments/attractors. A case study on predicting the onsets of pathological symptoms associated with Electrocardiogram (ECG) signals is then presented. 
